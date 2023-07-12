@@ -42,7 +42,7 @@ export default function Youtube() {
   function download_audio(key) {
     setLoadingData(true);
     axios
-      .get(`${URL}/youtube/download_audio?url=${url}&abr=${key}`, {
+      .get(`${URL}/youtube/download_audio?url=${url}&abr=${key[0]}`, {
         responseType: "blob", // Set the response type to "blob"
       })
       .then((response) => {
@@ -58,7 +58,7 @@ export default function Youtube() {
   function download_video(key) {
     setLoadingData(true);
     axios
-      .get(`${URL}/youtube/download_video_aud?url=${url}&res=${key}`, {
+      .get(`${URL}/youtube/download_video_aud?url=${url}&res=${key[0]}`, {
         responseType: "blob", // Set the response type to "blob"
       })
       .then((response) => {
@@ -73,7 +73,7 @@ export default function Youtube() {
   function download_videoOnly(key) {
     setLoadingData(true);
     axios
-      .get(`${URL}/youtube/download_video?url=${url}&res=${key}`, {
+      .get(`${URL}/youtube/download_video?url=${url}&res=${key[0]}`, {
         responseType: "blob", // Set the response type to "blob"
       })
       .then((response) => {
