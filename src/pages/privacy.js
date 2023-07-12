@@ -13183,484 +13183,186 @@ function privacy() {
                                                                           </span>
                                                                         </div>
                                                                         <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <br />
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              fontSize: 15,
-                                                                              color:
-                                                                                "rgb(89, 89, 89)",
-                                                                            }}
-                                                                          >
-                                                                            <span
-                                                                              style={{
-                                                                                fontSize: 15,
-                                                                                color:
-                                                                                  "rgb(89, 89, 89)",
-                                                                              }}
-                                                                            >
-                                                                              <span data-custom-class="body_text">
-                                                                                If
-                                                                                you
-                                                                                have
-                                                                                questions
-                                                                                or
-                                                                                comments
-                                                                                about
-                                                                                this
-                                                                                notice,
-                                                                                you
-                                                                                may{" "}
-                                                                                <span
-                                                                                  style={{
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <span data-custom-class="body_text">
-                                                                                    <bdt className="block-component" />
-                                                                                    email
-                                                                                    us
-                                                                                    at{" "}
-                                                                                    <bdt className="question">
-                                                                                      link2down@gmail.com
-                                                                                    </bdt>
-                                                                                    <bdt className="statement-end-if-in-editor" />
-                                                                                  </span>
-                                                                                </span>
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                  }}
-                                                                                >
-                                                                                  <span
-                                                                                    style={{
-                                                                                      fontSize: 15,
-                                                                                      color:
-                                                                                        "rgb(89, 89, 89)",
-                                                                                    }}
-                                                                                  >
-                                                                                    <span data-custom-class="body_text">
-                                                                                      &nbsp;or
-                                                                                      contact
-                                                                                      us
-                                                                                      by
-                                                                                      post
-                                                                                      at:
-                                                                                    </span>
-                                                                                  </span>
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <br />
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              fontSize: 15,
-                                                                              color:
-                                                                                "rgb(89, 89, 89)",
-                                                                            }}
-                                                                          >
-                                                                            <span
-                                                                              style={{
-                                                                                fontSize: 15,
-                                                                                color:
-                                                                                  "rgb(89, 89, 89)",
-                                                                              }}
-                                                                            >
-                                                                              <span data-custom-class="body_text">
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <span
-                                                                                    style={{
-                                                                                      color:
-                                                                                        "rgb(89, 89, 89)",
-                                                                                    }}
-                                                                                  >
-                                                                                    <span
-                                                                                      style={{
-                                                                                        color:
-                                                                                          "rgb(89, 89, 89)",
-                                                                                      }}
-                                                                                    >
-                                                                                      <span data-custom-class="body_text">
-                                                                                        <bdt className="question">
-                                                                                          Link2Down
-                                                                                        </bdt>
-                                                                                      </span>
-                                                                                    </span>
-                                                                                  </span>
-                                                                                </span>
-                                                                              </span>
-                                                                              <span data-custom-class="body_text">
-                                                                                <span
-                                                                                  style={{
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                  }}
-                                                                                >
-                                                                                  <span data-custom-class="body_text">
-                                                                                    <bdt className="block-component" />
-                                                                                  </span>
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              fontSize: 15,
-                                                                            }}
-                                                                          >
-                                                                            <span data-custom-class="body_text">
-                                                                              <bdt className="question">
-                                                                                __________
-                                                                              </bdt>
-                                                                              <span
-                                                                                style={{
-                                                                                  color:
-                                                                                    "rgb(89, 89, 89)",
-                                                                                }}
-                                                                              >
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <bdt className="block-component" />
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              fontSize: 15,
-                                                                            }}
-                                                                          >
-                                                                            <span data-custom-class="body_text">
-                                                                              <bdt className="question">
-                                                                                __________
-                                                                              </bdt>
-                                                                              <span
-                                                                                style={{
-                                                                                  color:
-                                                                                    "rgb(89, 89, 89)",
-                                                                                }}
-                                                                              >
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <bdt className="block-component" />
-                                                                                  <bdt className="block-component" />
-                                                                                  <bdt className="block-component" />
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                            <span data-custom-class="body_text">
-                                                                              <span
-                                                                                style={{
-                                                                                  color:
-                                                                                    "rgb(89, 89, 89)",
-                                                                                }}
-                                                                              >
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <bdt className="statement-end-if-in-editor" />
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                          <span data-custom-class="body_text">
-                                                                            <span
-                                                                              style={{
-                                                                                fontSize: 15,
-                                                                              }}
-                                                                            >
-                                                                              <span data-custom-class="body_text">
-                                                                                <span
-                                                                                  style={{
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                  }}
-                                                                                >
-                                                                                  <bdt className="statement-end-if-in-editor">
-                                                                                    <span
-                                                                                      style={{
-                                                                                        color:
-                                                                                          "rgb(89, 89, 89)",
-                                                                                      }}
-                                                                                    >
-                                                                                      <span
-                                                                                        style={{
-                                                                                          fontSize: 15,
-                                                                                        }}
-                                                                                      >
-                                                                                        <span data-custom-class="body_text">
-                                                                                          <bdt className="block-component">
-                                                                                            <bdt className="block-component" />
-                                                                                          </bdt>
-                                                                                        </span>
-                                                                                      </span>
-                                                                                    </span>
-                                                                                  </bdt>
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                            <span
-                                                                              style={{
-                                                                                fontSize: 15,
-                                                                              }}
-                                                                            >
-                                                                              <span data-custom-class="body_text">
-                                                                                <span
-                                                                                  style={{
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                    fontSize: 15,
-                                                                                  }}
-                                                                                >
-                                                                                  <span
-                                                                                    style={{
-                                                                                      fontSize: 15,
-                                                                                    }}
-                                                                                  >
-                                                                                    <span data-custom-class="body_text">
-                                                                                      <bdt className="statement-end-if-in-editor">
-                                                                                        <bdt className="block-component" />
-                                                                                      </bdt>
-                                                                                    </span>
-                                                                                  </span>
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <br />
-                                                                        </div>
-                                                                        <div
-                                                                          id="request"
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              color:
-                                                                                "rgb(127, 127, 127)",
-                                                                            }}
-                                                                          >
-                                                                            <span
-                                                                              style={{
-                                                                                color:
-                                                                                  "rgb(89, 89, 89)",
-                                                                                fontSize: 15,
-                                                                              }}
-                                                                            >
-                                                                              <span
-                                                                                style={{
-                                                                                  fontSize: 15,
-                                                                                  color:
-                                                                                    "rgb(89, 89, 89)",
-                                                                                }}
-                                                                              >
-                                                                                <span
-                                                                                  style={{
-                                                                                    fontSize: 15,
-                                                                                    color:
-                                                                                      "rgb(89, 89, 89)",
-                                                                                  }}
-                                                                                >
-                                                                                  <span
-                                                                                    id="control"
-                                                                                    style={{
-                                                                                      color:
-                                                                                        "rgb(0, 0, 0)",
-                                                                                    }}
-                                                                                  >
-                                                                                    <strong>
-                                                                                      <span data-custom-class="heading_1">
-                                                                                        14.
-                                                                                        HOW
-                                                                                        CAN
-                                                                                        YOU
-                                                                                        REVIEW,
-                                                                                        UPDATE,
-                                                                                        OR
-                                                                                        DELETE
-                                                                                        THE
-                                                                                        DATA
-                                                                                        WE
-                                                                                        COLLECT
-                                                                                        FROM
-                                                                                        YOU?
-                                                                                      </span>
-                                                                                    </strong>
-                                                                                  </span>
-                                                                                </span>
-                                                                              </span>
-                                                                            </span>
-                                                                          </span>
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <br />
-                                                                        </div>
-                                                                        <div
-                                                                          style={{
-                                                                            lineHeight:
-                                                                              "1.5",
-                                                                          }}
-                                                                        >
-                                                                          <span
-                                                                            style={{
-                                                                              fontSize: 15,
-                                                                              color:
-                                                                                "rgb(89, 89, 89)",
-                                                                            }}
-                                                                          >
-                                                                            <span
-                                                                              style={{
-                                                                                fontSize: 15,
-                                                                                color:
-                                                                                  "rgb(89, 89, 89)",
-                                                                              }}
-                                                                            >
-                                                                              <span data-custom-class="body_text">
-                                                                                <bdt className="block-component" />
-                                                                                Based
-                                                                                on
-                                                                                the
-                                                                                applicable
-                                                                                laws
-                                                                                of
-                                                                                your
-                                                                                country,
-                                                                                you
-                                                                                may
-                                                                                have
-                                                                                the
-                                                                                right
-                                                                                to
-                                                                                request
-                                                                                access
-                                                                                to
-                                                                                the
-                                                                                personal
-                                                                                information
-                                                                                we
-                                                                                collect
-                                                                                from
-                                                                                you,
-                                                                                change
-                                                                                that
-                                                                                information,
-                                                                                or
-                                                                                delete
-                                                                                it.{" "}
-                                                                                <bdt className="else-block">
-                                                                                  <bdt className="block-component" />
-                                                                                  To
-                                                                                  request
-                                                                                  to
-                                                                                  review,
-                                                                                  update,
-                                                                                  or
-                                                                                  delete
-                                                                                  your
-                                                                                  personal
-                                                                                  information,
-                                                                                  please{" "}
-                                                                                  <bdt className="block-component" />
-                                                                                  fill
-                                                                                  out
-                                                                                  and
-                                                                                  submit
-                                                                                  a&nbsp;
-                                                                                </bdt>
-                                                                              </span>
-                                                                              <span
-                                                                                style={{
-                                                                                  color:
-                                                                                    "rgb(48, 48, 241)",
-                                                                                }}
-                                                                              >
-                                                                                <span data-custom-class="body_text">
-                                                                                  <span
-                                                                                    style={{
-                                                                                      fontSize: 15,
-                                                                                    }}
-                                                                                  ></span>
-                                                                                </span>
-                                                                              </span>
-                                                                              <bdt className="block-component">
-                                                                                <span data-custom-class="body_text" />
-                                                                              </bdt>
-                                                                            </span>
-                                                                          </span>
-                                                                          <span data-custom-class="body_text">
-                                                                            .
-                                                                          </span>
-                                                                        </div>
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <span
+                style={{
+                  fontSize: "11.0pt",
+                  lineHeight: "115%",
+                  fontFamily: "Arial",
+                  color: "#595959",
+                  msoThemecolor: "text1",
+                  msoThemetint: 166,
+                }}
+              >
+                In order to resolve a complaint regarding the Services or to
+                receive further information regarding use of the Services,
+                please contact us at:
+              </span>
+            </div>
+            <div
+              className="MsoNormal"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <br />
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <span style={{ fontSize: 15 }}>
+                <span style={{ color: "rgb(89, 89, 89)" }}>
+                  <bdt className="question">
+                    <strong>Link2Down</strong>
+                  </bdt>
+                  <strong>
+                    <bdt className="block-component" />
+                  </strong>
+                </span>
+              </span>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <span style={{ fontSize: 15 }}>
+                <span
+                  style={{
+                    lineHeight: "115%",
+                    fontFamily: "Arial",
+                    color: "rgb(89, 89, 89)",
+                  }}
+                >
+                  <bdt className="question">
+                    <strong>
+                      <bdt className="question">
+                        796C+HWW Dubai - United Arab Emirates
+                      </bdt>
+                    </strong>
+                  </bdt>
+                  <span
+                    style={{
+                      lineHeight: "115%",
+                      fontFamily: "Arial",
+                      color: "rgb(89, 89, 89)",
+                    }}
+                  >
+                    <bdt className="statement-end-if-in-editor" />
+                  </span>
+                  <bdt className="block-component" />
+                </span>
+              </span>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <span style={{ fontSize: 15 }}>
+                <strong>
+                  <span style={{ color: "rgb(89, 89, 89)" }}>
+                    <bdt className="question">Dubai</bdt>
+                    <bdt className="block-component" />,{" "}
+                    <bdt className="question">Dubai Airport Free Zone</bdt>
+                    <bdt className="statement-end-if-in-editor" />
+                    <bdt className="block-component" />
+                  </span>
+                </strong>
+                <strong>
+                  <span style={{ color: "rgb(89, 89, 89)" }}>
+                    <bdt className="block-component" />
+                  </span>
+                  <bdt className="block-component" />
+                </strong>
+              </span>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <bdt className="block-component">
+                <strong />
+              </bdt>
+              <strong>
+                <bdt className="question">United Arab Emirates</bdt>
+              </strong>
+              <bdt className="statement-end-if-in-editor" />
+              <bdt className="statement-end-if-in-editor" />
+              <bdt className="statement-end-if-in-editor">
+                <strong />
+              </bdt>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <strong>
+                <span
+                  style={{
+                    fontSize: "11.0pt",
+                    lineHeight: "115%",
+                    fontFamily: "Arial",
+                    color: "#595959",
+                    msoThemecolor: "text1",
+                    msoThemetint: 166,
+                  }}
+                >
+                  <strong>
+                    <bdt className="block-component" />
+                  </strong>
+                </span>
+              </strong>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <strong>
+                <span
+                  style={{
+                    fontSize: "11.0pt",
+                    lineHeight: "115%",
+                    fontFamily: "Arial",
+                    color: "#595959",
+                    msoThemecolor: "text1",
+                    msoThemetint: 166,
+                  }}
+                >
+                  <strong>
+                    <bdt className="block-component" />
+                  </strong>
+                </span>
+              </strong>
+            </div>
+            <div
+              className="MsoNormal"
+              data-custom-class="body_text"
+              style={{ lineHeight: "1.5", textAlign: "left" }}
+            >
+              <strong>
+                <span
+                  style={{
+                    fontSize: "11.0pt",
+                    lineHeight: "115%",
+                    fontFamily: "Arial",
+                    color: "#595959",
+                    msoThemecolor: "text1",
+                    msoThemetint: 166,
+                  }}
+                >
+                  <strong>
+                    <bdt className="question">official@link2down.com</bdt>
+                  </strong>
+                </span>
+              </strong>
+            </div>
                                                                       </div>
                                                                     </div>
                                                                   </div>
