@@ -407,18 +407,7 @@ function privacy() {
                   <bdt className="block-component">submitting a&nbsp;</bdt>
                 </span>
               </span>
-              <a
-                data-custom-class="link"
-                href="https://app.termly.io/notify/bf98109e-100a-4cf1-a7c5-46ede0783b47"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                <span style={{ fontSize: 15 }}>
-                  <span data-custom-class="body_text">
-                    data subject access request
-                  </span>
-                </span>
-              </a>
+
               <span style={{ fontSize: 15 }}>
                 <span data-custom-class="body_text">
                   <bdt className="block-component" />, or by contacting us. We
@@ -12459,18 +12448,7 @@ function privacy() {
                                                                               submitting
                                                                               a&nbsp;
                                                                             </span>
-                                                                            <a
-                                                                              href="https://app.termly.io/notify/bf98109e-100a-4cf1-a7c5-46ede0783b47"
-                                                                              rel="noopener noreferrer"
-                                                                              target="_blank"
-                                                                            >
-                                                                              <span data-custom-class="link">
-                                                                                data
-                                                                                subject
-                                                                                access
-                                                                                request
-                                                                              </span>
-                                                                            </a>
+
                                                                             <span data-custom-class="body_text">
                                                                               <bdt className="block-component" />
                                                                               ,
@@ -13671,19 +13649,7 @@ function privacy() {
                                                                                     style={{
                                                                                       fontSize: 15,
                                                                                     }}
-                                                                                  >
-                                                                                    <a
-                                                                                      data-custom-class="link"
-                                                                                      href="https://app.termly.io/notify/bf98109e-100a-4cf1-a7c5-46ede0783b47"
-                                                                                      rel="noopener noreferrer"
-                                                                                      target="_blank"
-                                                                                    >
-                                                                                      data
-                                                                                      subject
-                                                                                      access
-                                                                                      request
-                                                                                    </a>
-                                                                                  </span>
+                                                                                  ></span>
                                                                                 </span>
                                                                               </span>
                                                                               <bdt className="block-component">
